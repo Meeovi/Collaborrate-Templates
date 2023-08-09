@@ -1,2 +1,2 @@
-# AlternateCMS-Templates
-Official templates for AlternateCMS
+# Collaborrate-Templates
+Official templates for Collaborrate
